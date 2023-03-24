@@ -4,7 +4,7 @@ title:      MySQL表结构 To Excel表格
 subtitle:   Navicat导出MySQL表结构并复制到Excel表格
 date:       2023-03-24
 author:     Bamboo
-header-img: img/post-bg-map.jpg
+header-img: img/post-bg-os-metro.jpg
 catalog: true
 tags:
     - Navicat
