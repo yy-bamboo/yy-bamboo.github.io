@@ -1,8 +1,8 @@
 # Site settings
-title: Bamboo Blog
-SEOTitle: Bamboo Blog
+title: "Bamboo's Blog"
+SEOTitle: "Bamboo's Blog"
 header-img: img/home-bg-o.jpg
-email: yuzhu1342863210@gmail.com
+email: "yuzhu1342863210@gmail.com"
 description: "好好学习，天天向上"
 keyword: "JAVA, SpringBoot, Vue, JS, Kafka"
 url: "https://yy-bamboo.github.io"          # your host, for absolute URL
